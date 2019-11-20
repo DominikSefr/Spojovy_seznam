@@ -1,0 +1,11 @@
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\bin\Debug\netcoreapp2.2\Spojovy_seznam.deps.json
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\bin\Debug\netcoreapp2.2\Spojovy_seznam.runtimeconfig.json
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\bin\Debug\netcoreapp2.2\Spojovy_seznam.runtimeconfig.dev.json
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\bin\Debug\netcoreapp2.2\Spojovy_seznam.dll
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\bin\Debug\netcoreapp2.2\Spojovy_seznam.pdb
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\obj\Debug\netcoreapp2.2\Spojovy_seznam.csprojAssemblyReference.cache
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\obj\Debug\netcoreapp2.2\Spojovy_seznam.csproj.CoreCompileInputs.cache
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\obj\Debug\netcoreapp2.2\Spojovy_seznam.AssemblyInfoInputs.cache
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\obj\Debug\netcoreapp2.2\Spojovy_seznam.AssemblyInfo.cs
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\obj\Debug\netcoreapp2.2\Spojovy_seznam.dll
+C:\Users\domsefr017\source\repos\Spojovy_seznam\Spojovy_seznam\obj\Debug\netcoreapp2.2\Spojovy_seznam.pdb

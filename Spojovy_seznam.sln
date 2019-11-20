@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spojovy_seznam", "Spojovy_seznam\Spojovy_seznam.csproj", "{2F8EB397-0CE5-4972-A840-FE19444CCF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8EB397-0CE5-4972-A840-FE19444CCF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8EB397-0CE5-4972-A840-FE19444CCF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8EB397-0CE5-4972-A840-FE19444CCF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8EB397-0CE5-4972-A840-FE19444CCF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A797144-E87C-4D2B-984E-83AC6A5B44EE}
+	EndGlobalSection
+EndGlobal
