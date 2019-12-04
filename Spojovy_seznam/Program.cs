@@ -7,12 +7,15 @@ namespace Spojovy_seznam
         static void Main(string[] args)
         {
             var Seznam = new MujList<string>();
-            Seznam.Add("Ahoj");
+            Seznam.Add("1");
             Seznam.Remove();
-            Seznam.Add("Jak");
-            Seznam.Add("Se");
-            Seznam.Add("Máš");
-            Seznam.Add(".");
+            Seznam.Add("2");
+            Seznam.Add("3");
+            Seznam.Add("4");
+            Seznam.Add("5");
+            Seznam.Insert("insert", 2);
+            Seznam.RemoveAt(2);
+            
             Console.WriteLine(Seznam);
         }
     }

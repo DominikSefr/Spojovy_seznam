@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domsefr017\\source\\repos\\Spojovy_seznam\\Spojovy_seznam\\Spojovy_seznam.csproj": {}
+    "C:\\Users\\domsefr017.AD\\Source\\Repos\\Spojovy_seznam\\Spojovy_seznam\\Spojovy_seznam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domsefr017\\source\\repos\\Spojovy_seznam\\Spojovy_seznam\\Spojovy_seznam.csproj": {
+    "C:\\Users\\domsefr017.AD\\Source\\Repos\\Spojovy_seznam\\Spojovy_seznam\\Spojovy_seznam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domsefr017\\source\\repos\\Spojovy_seznam\\Spojovy_seznam\\Spojovy_seznam.csproj",
+        "projectUniqueName": "C:\\Users\\domsefr017.AD\\Source\\Repos\\Spojovy_seznam\\Spojovy_seznam\\Spojovy_seznam.csproj",
         "projectName": "Spojovy_seznam",
-        "projectPath": "C:\\Users\\domsefr017\\source\\repos\\Spojovy_seznam\\Spojovy_seznam\\Spojovy_seznam.csproj",
-        "packagesPath": "C:\\Users\\domsefr017\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domsefr017\\source\\repos\\Spojovy_seznam\\Spojovy_seznam\\obj\\",
+        "projectPath": "C:\\Users\\domsefr017.AD\\Source\\Repos\\Spojovy_seznam\\Spojovy_seznam\\Spojovy_seznam.csproj",
+        "packagesPath": "C:\\Users\\domsefr017.AD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\domsefr017.AD\\Source\\Repos\\Spojovy_seznam\\Spojovy_seznam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\domsefr017\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\domsefr017.AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

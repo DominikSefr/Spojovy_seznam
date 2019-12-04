@@ -4,9 +4,39 @@ using System.Text;
 
 namespace Spojovy_seznam
 {
-    class MujList<T>
+    class MujList<T> : IList<T>
     {
         private Node FirstNode { get; set; }
+        public bool IsReadOnly { get; set; }
+        public T this[int index] 
+        {
+            get
+            {
+                var Help = FirstNode;
+                for(int i = 0; i <= index; i++)
+                {
+                    if(i == index)
+                    {
+                        break;
+                    }
+                    Help = Help.Next;
+                }
+                return Help.Value;
+            }
+            set
+            {
+                var Help = FirstNode;
+                for (int i = 0; i <= index; i++)
+                {
+                    if (i == index)
+                    {
+                        break;
+                    }
+                    Help = Help.Next;
+                }
+                Help.Value = value;
+            }
+        }
         public MujList()
         {
             FirstNode = null; 
@@ -23,7 +53,27 @@ namespace Spojovy_seznam
                 FirstNode = FirstNode.Next;
             }
         }
-
+        public void RemoveAt(int position)
+        {
+            var Help = FirstNode;
+            var pointer = 0;
+            if (position == 0)
+            {
+                Remove();
+            }
+            else
+            {
+                while (pointer < position)
+                {
+                    Help = Help.Next;
+                    pointer++;
+                    if (pointer == position - 1)
+                    {
+                        Help.Next = Help.Next.Next;
+                    }
+                }
+            }
+        }
         public void Insert(T v, int n)
         {
             var Help = FirstNode;
@@ -39,7 +89,8 @@ namespace Spojovy_seznam
                     Help = Help.Next;
                     pointer++;
                 }
-                var Novy = new Node() { Value = v, Next = Help.Next };
+                Help.Next = new Node() { Value = v, Next = Help.Next };
+                pointer++;
             }
         }
         public override string ToString()
